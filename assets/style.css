@@ -18,6 +18,9 @@ header {
 header h1 {
     display: inline-block;
     font-size: 48px;
+}
+
+header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -44,9 +47,14 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
     text-align: justify;
     text-justify: inter-word;
+}
+
+img {
+    border-radius: 150px;
+    border: 5px palegoldenrod solid;
 }
 
 .hero {
@@ -134,4 +142,8 @@ footer {
 
 footer h2 {
     font-size: 20px;
+}
+
+footer p {
+    text-align: center;
 }
