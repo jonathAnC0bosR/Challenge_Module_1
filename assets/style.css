@@ -148,9 +148,3 @@ footer p {
     text-align: center;
 }
 
-@media screen and (max-width: 992px) {
-   nav {
-   flex-direction: column;
-    background-color: #ffffff;
-   }
-} 
